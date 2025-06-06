@@ -68,7 +68,7 @@ Additionally, we tested a **heuristic** to dynamically reassign employees betwee
 |------|-------------|
 | `Simulación.pdf` | Slide deck with visual summary of the simulation and results (in Spanish) |
 | `Informe-simulación.pdf` | Full written report detailing methodology, logic, experiments, and conclusions (in Spanish) |
-| `Entrega-simulacioon.alp` | AnyLogic simulator file (not included here, must be opened with AnyLogic Personal Learning Edition) |
+| `Entrega-simulacioon.alp` | AnyLogic simulator file (must be opened with AnyLogic Personal Learning Edition) |
 
 ---
 
